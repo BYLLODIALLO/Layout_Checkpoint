@@ -1,0 +1,280 @@
+* {
+    background-color: transparent;
+    text-decoration: none;
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+}
+
+.logo-docplanner {
+    width: 265px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    padding-left: 250px;
+    font-weight: 50;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding-right: 250px;
+}
+
+.links a {
+    color: gray;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logo img {
+    width: 40px;
+}
+
+.titleless {
+    text-align: center;
+    font-size: 15px;
+    color: #00b39b;
+    text-align: center;
+    font-weight: 10px;
+    font-family: 'Roboto', sans-serif;
+    margin: 25px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.paragrahes {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+}
+
+.gridboxes {
+    display: flex;
+    border-radius: 20px;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-family: 'Roboto', sans-serif;
+    margin: 3 150px;
+    gap: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: #fff;
+
+}
+
+.box1 {
+    background-color: #00b39b;
+    color: #fff;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.boxe2 {
+    background-color: blue;
+    color: #fff;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.theboxe3 {
+    background-color: #747474;
+    color: #fff;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.fav_icons {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    gap: 50px;
+    color: #747474;
+    padding-left: 250px;
+    padding-right: 200px;
+}
+.texto{
+    width: 90px;
+}
+
+.burger {
+    color: #00b39b;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 2px;
+}
+
+.tuto_logo {
+    color: #747474;
+    width: 70px;
+}
+
+.gipo_logo {
+    color: #747474;
+    width: 40px;
+}
+.lekarz{
+    width: 110px;
+    color: gray;
+}
+.ralia{
+    width: 110px;
+    color: gray;
+}
+.dotore{
+    width: 110px;
+    color: gray;
+}
+.vimi{
+    width: 110px;
+    color: gray;
+}
+.lekar-cz{
+    width: 110px;
+    color: gray;
+    
+}
+.clinic{
+    width: 65px;
+    color: gray;
+}
+.madridista{
+    width: 100px;
+    color: gray;
+}
+.firsto{
+    display: flex;
+    justify-content: space-between;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+}
+.texto{
+width: 35%;
+}
+.lenovo{
+    background-color:#00b39b ;
+    color: #747474;
+    padding-right: 250px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+}
+
+
+.logos{
+    width: 350px;
+    margin-top: 50px;
+    color: #00b39b;
+
+}
+.hug{
+    padding-left: 250px;
+    font-family: 'Roboto', sans-serif;
+}
+.tables{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.case1{
+    display: table;
+    justify-content: space-between;
+    border-radius: 30px;
+    color: #fff;
+}
+.case2{
+    display: table;
+    justify-content: space-between;
+    border-radius: 30px;
+    color: #fff;
+}
+.Jude{
+   justify-content: center; 
+   font-family: 'Roboto', sans-serif;
+   padding-left: 400px;
+   padding-right: 400px;
+}
+.Jude h1 {
+    color: #00b39b;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 80px;
+    padding-bottom: 25px;
+}
+.Jude p{
+    color: #747474;
+    font-size: medium;
+    font-weight: bold;
+    padding-bottom: 65px;
+}
+.vile_images{
+    display: block;
+    justify-content: space-between;
+    padding-left: 180px;
+    padding-right: 250px;
+}
+.first{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.second{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.third{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.last img{
+    width: 310px;
+}
+.Join_us{
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    font-size: small;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.Join_us a{
+    display: table;
+    justify-content: center;
+    color: blue;
+    table-layout: auto;
+    box-sizing: content-box;
+}
+.footer{
+    background: transparent;
+    font-size: smaller;
+    font-family: 'Roboto', sans-serif;
+    align-content: center;
+    padding-left: 250px;
+    padding-right: 180px;
+}
